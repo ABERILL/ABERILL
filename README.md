@@ -3,71 +3,61 @@
 ###
 
 <div align="left">
-<h2>Hello There👋! I'm Yassir Elkhaili</h2>
+<h2>Hello There👋! I'm Ilya Rusakov</h2>
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/yassirelkhaili"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://twitter.com/1337FIL"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
-  <a href="mailto:elkhailiyassir@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.facebook.com/profile.php?id=100010165301312"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
-  <a href="https://leetcode.com/yassirelkhaili/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" alt="leetcode logo"  /></a>
-  <a href="https://www.hackerrank.com/profile/elkhailiyassir"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" alt="hackerrank logo"  /></a>
-  <a href="https://www.freecodecamp.org/Blue479"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" height="35" alt="freecodecamp logo"  /></a>
+  <a href="https://t.me/ilyarav"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
+  <a href="mailto:ilya.rusakov222@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://vk.com/id257606113"><img src="https://img.shields.io/static/v1?message=VK&logo=vk&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="vk logo"  /></a>
+  <a href="https://www.codewars.com/users/Aberil"><img src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=Codewars&logoColor=#d16c06" height="35" alt="codewars logo"  /></a>
 </div>
 
 ## 👨‍💻 About
 
 ###
 
-<p align="left">- 🔭 I’m working as a Full Stack Software Engineer.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a> and enrolled at <a href="https://twitter.com/1337FIL">@1337FIL</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world. <br>- 🎲 Fun fact: The largest sql query I have ever written is 715 charracters long. <br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://webnebula.vercel.app">website</a>.<br>&emsp;- Check out my online <a href="https://yassirelkhaili.com" target="_blank">resume</a>.</p>
+<p align="left">- 🔭 I am studying in university to be a data analyst and data scientist.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a> and enrolled at <a href="https://twitter.com/1337FIL">@1337FIL</a>.<br>- ⚡ In my free time, I work on my own projects, I like to play chess and ping pong <br>- 💡 ...<br>- 🎯 Goals: ... <br>- 🎲 Fun fact: The largest sql query I have ever written is 538 charracters long.</p>
 
 ###
 
 ## 🛠️ Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="35" alt="sklearn logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="35" alt="pytorch logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=qt" height="35" alt="qt logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=r" height="35" alt="r logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgres logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="linux logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="35" alt="prisma logo"  />
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="35" alt="wordpress logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="35" alt="intellij-idea logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" height="35" alt="Hibernate logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
 </div>
 
 ## 📊 Stats
