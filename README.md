@@ -50,7 +50,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="hibernate" alt="hibernate" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp;
-  <img src="https://commons.wikimedia.org/wiki/File:Yandex_Cloud_logo.svg#/media/File:Yandex_Cloud_logo.svg" title="yandex.cloud" alt="yandex.cloud" width="40" height="40"/>&nbsp;
 
 
 </div>
