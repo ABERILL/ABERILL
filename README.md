@@ -25,17 +25,14 @@
 ## 🛠️ Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="3" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>
-  <img width="3" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" height="35" alt="pytorch logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=qt" height="35" alt="qt logo"  />
-  <img width="3" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=r" height="35" alt="r logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgres logo"  />
@@ -44,7 +41,7 @@
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="3" />
@@ -57,7 +54,7 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="35" alt="intellij-idea logo"  />
   <img width="3" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" height="35" alt="Hibernate logo"  />
-  <img width="3" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
 
 
 </div>
