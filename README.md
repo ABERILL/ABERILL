@@ -62,7 +62,7 @@
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ABERILL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=ABERILL&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com/?user=ABERILL&locale=en&mode=daily&theme=react&hide_border=false&bordr_radius=5&order=3" height="150" alt="streak graph"  />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ABERILL&count_private=true&theme=react&card_width=300&langs_count=5" alt="wakatime stats">
+<!--   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ABERILL&count_private=true&theme=react&card_width=300&langs_count=5" alt="wakatime stats"> -->
 </div>
 
 ###
@@ -72,12 +72,12 @@
 ###
 
 <div align="left">
-       <a href="https://github.com/yassirelkhaili/webnebula"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=webnebula&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-    <a href="https://github.com/yassirelkhaili/PeoplePerTask"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=PeoplePerTask&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-   <a href="https://github.com/yassirelkhaili/APGFE"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=APGFE&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-   <a href="https://github.com/yassirelkhaili/WikiCraft"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=WikiCraft&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+       <a href="https://github.com/ABERILL/Python"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ABERILL&repo=Python&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+    <a href="https://github.com/ABERILL/data_analitics"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ABERILL&repo=data_analitics&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+   <a href="https://github.com/ABERILL/R"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ABERILL&repo=R&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+<!--    <a href="https://github.com/yassirelkhaili/WikiCraft"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=WikiCraft&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
   <a href="https://github.com/yassirelkhaili/simplekit"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=SimpleKit&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-  <a href="https://github.com/yassirelkhaili/resume"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=resume&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+  <a href="https://github.com/yassirelkhaili/resume"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=resume&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a> -->
 </div>
 
 ###
@@ -86,6 +86,6 @@
 
 ###
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassirelkhaili&repo=IP-Finder&disable_animations=false&theme=react&hide_border=false&radius=6" alt="github-readme-streak-stats">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABERILL&repo=data_analitics&disable_animations=false&theme=react&hide_border=false&radius=6" alt="github-readme-streak-stats">
 
 ###
