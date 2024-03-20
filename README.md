@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I am studying in university to be a data analyst and data scientist.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a> and enrolled at <a href="https://twitter.com/1337FIL">@1337FIL</a>.<br>- ⚡ In my free time, I work on my own projects, I like to play chess and ping pong <br>- 💡 ...<br>- 🎯 Goals: ... <br>- 🎲 Fun fact: The largest sql query I have ever written is 538 charracters long.</p>
+<p align="left">- 🔭 I am studying in university to be a data analyst and data scientist.<br>- 📚 I am currently mastering the Django framework.</a>.<br>- ⚡ In my free time, I work on my own projects, I like to play chess and ping pong <br>- 💡 ...<br>- 🎯 Goals: ... <br>- 🎲 Fun fact: The largest sql query I have ever written is 538 charracters long.</p>
 
 ###
 
@@ -39,10 +39,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="r" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp; -->
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
