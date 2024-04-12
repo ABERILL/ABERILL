@@ -18,8 +18,8 @@
 
 ###
 
-<p align="left">- 🔭 I am studying in university to be a data analyst and data scientist.<br>- 📚 I am currently mastering the Django framework.</a>.<br>- ⚡ In my free time, I work on my own projects, I like to play chess and ping pong <br>- 💡 ...<br>- 🎯 Goals: ... <br>- 🎲 Fun fact: The largest sql query I have ever written is 538 charracters long.</p>
-
+<p align="left">- 🔭 I am studying in university to be a data analyst and data scientist.<br>- 📚 I am currently mastering the Django framework.</a>.<br>- ⚡ In my free time, I work on my own projects, I like to play chess and ping pong <br>- 🎲 Fun fact: The largest sql query I have ever written is 538 charracters long.</p>
+<!-- <br>- 💡 ...<br>- 🎯 Goals: ... -->
 ###
 
 ## 🛠️ Skills
