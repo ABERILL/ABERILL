@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I am studying in university to be a data analyst and data scientist.<br>- 📚 I am currently mastering the Django framework.</a>.<br>- ⚡ In my free time, I work on my own projects, I like to play chess and ping pong <br>- 🎲 Fun fact: The largest sql query I have ever written is 538 charracters long.</p>
+<p align="left">- 🔭 I am studying in university to be a data analyst and data scientist.<br>- 📚 I am currently mastering the Greenplum.</a>.<br>- ⚡ In my free time, I work on my own projects, I like to play chess and ping pong <br>- 🎲 Fun fact: The largest sql query I have ever written is 571 charracters long.</p>
 <!-- <br>- 💡 ...<br>- 🎯 Goals: ... -->
 ###
 
@@ -31,7 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp; 
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;  -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  title="django" alt="django" width="40" height="40"/>&nbsp;
@@ -44,12 +44,12 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="hibernate" alt="hibernate" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp; -->
 
 
 </div>
@@ -90,6 +90,6 @@
 
 ###
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABERILL&repo=data_analitics&disable_animations=false&theme=react&hide_border=false&radius=6" alt="github-readme-streak-stats">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABERILL&repo=data_analitics&disable_animations=false&theme=react&hide_border=false&radius=6" alt="github-readme-streak-stats"> -->
 
 ###
