@@ -18,7 +18,9 @@
 
 ###
 
-<p align="left">- 🔭 I am studying in university to be a data analyst and data scientist.<br>- 📚 I am currently mastering the Greenplum.</a>.<br>- ⚡ In my free time, I work on my own projects, I like to play chess and ping pong <br>- 🎲 Fun fact: The largest sql query I have ever written is 571 charracters long.</p>
+<p align="left">- 🔭 I am a data analyst and data engineer.
+<!--   <br>- 📚 I am currently mastering the Greenplum.</a>.<br>- ⚡ In my free time, I work on my own projects, I like to play chess and ping pong <br>- 🎲 Fun fact: The largest sql query I have ever written is 571 charracters long. -->
+  </p>
 <!-- <br>- 💡 ...<br>- 🎯 Goals: ... -->
 ###
 
@@ -45,8 +47,8 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="gradle" alt="gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" title="hibernate" alt="hibernate" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp; -->
